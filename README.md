@@ -35,4 +35,5 @@ when i'm not coding, i'm usually at the gym, gaming, or breaking and fixing my l
 
 ## recent work
 
-- **arch linux customization** — configuring and customizing my Arch Linux + Hyprland setup, including Waybar, Hyprpanel, Fish Shell, Neovim, system theming, and workflow automation.
+- **arch linux customization** — configuring and customizing my Arch Linux + Hyprland setup, including Waybar, Hyprpanel, Fish Shell, Neovim, theming, and workflow automation.
+  - [View Dotfiles Repository](https://github.com/akshatgitgud/dotfiles)
