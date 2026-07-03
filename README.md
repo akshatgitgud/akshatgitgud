@@ -28,8 +28,8 @@ when i'm not coding, i'm usually at the gym, gaming, or breaking and fixing my l
 </p>
 
 ### other platforms
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode&logoColor=white)](YOUR_LEETCODE_URL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-gupta-252761204)
+[![LeetCode](https://img.shields.io/badge/LeetCode-monkeysolves-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/monkeysolves/)
 
 ---
 
