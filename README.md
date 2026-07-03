@@ -10,6 +10,7 @@ when i'm not coding, i'm usually at the gym, gaming, or breaking and fixing my l
 
 **languages**
 <p align="left">
+  <img src="https://img.shields.io/badge/Python-Basics-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Basics" />
   <img src="https://img.shields.io/badge/java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
   <img src="https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
 </p>
