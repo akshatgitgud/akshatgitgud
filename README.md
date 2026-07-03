@@ -21,11 +21,11 @@ when i'm not coding, i'm usually at the gym, gaming, or breaking and fixing my l
 
 **tools & software**
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" width="48" height="48" alt="Neovim"/>
   <img src="https://img.shields.io/badge/vscodium-2f80ed?style=for-the-badge&logo=vscodium&logoColor=white" alt="vscodium" />
   <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
   <img src="https://img.shields.io/badge/blender-f5792a?style=for-the-badge&logo=blender&logoColor=white" alt="blender" />
+  <img src="https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="neovim" />
 </p>
 
 ### other platforms
