@@ -39,3 +39,5 @@ when i'm not coding, i'm usually at the gym, gaming, or breaking and fixing my l
 
 - **arch linux customization** — configuring and customizing my Arch Linux + Hyprland setup, including Waybar, Hyprpanel, Fish Shell, Neovim, theming, and workflow automation.
   - [View Dotfiles Repository](https://github.com/akshatgitgud/dotfiles)
+- **Coding a 2-D game engine in JAVA** -
+  - [Mario](https://github.com/akshatgitgud/Mario)
