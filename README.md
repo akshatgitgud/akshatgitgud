@@ -1,43 +1,30 @@
-## hey, i'm akshat 👋
+### Hi there 👋
 
-cs undergrad | java & c++ | linux enthusiast
+I am **Akshat**, a **Computer Science undergrad** interested in software development, data structures & algorithms, and linux systems. Most of my time goes into solving coding problems, building projects, and customizing my Arch Linux setup.
 
-i'm a computer science student interested in software development, data structures & algorithms, and linux systems. most of my time goes into solving coding problems, building projects, and customizing my arch linux setup.
-
-when i'm not coding, i'm usually at the gym, gaming, or breaking and fixing my linux installation.
-
-### tech stack
-
-**languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/java-ed8b00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
-  <img src="https://img.shields.io/badge/c++-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++" />
-  <img src="https://img.shields.io/badge/Python-Basics-blue?style=for-the-badge&logo=python&logoColor=white" alt="Python Basics" />
-</p>
-
-**operating systems**
-<p align="left">
-  <img src="https://img.shields.io/badge/arch_linux-1793d1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="arch linux" />
-</p>
-
-**tools & software**
-<p align="left">
-  <img src="https://img.shields.io/badge/vscodium-2f80ed?style=for-the-badge&logo=vscodium&logoColor=white" alt="vscodium" />
-  <img src="https://img.shields.io/badge/git-f05032?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-  <img src="https://img.shields.io/badge/blender-f5792a?style=for-the-badge&logo=blender&logoColor=white" alt="blender" />
-  <img src="https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white" alt="neovim" />
-</p>
-
-### other platforms
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Akshat%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshat-gupta-252761204)
-[![LeetCode](https://img.shields.io/badge/LeetCode-monkeysolves-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/monkeysolves/)
+[LinkedIn](https://www.linkedin.com/in/akshat-gupta-252761204) - [LeetCode](https://leetcode.com/u/monkeysolves/)
 
 ---
 
-## recent work
+- 🐧 I'm currently customizing my **Arch Linux + Hyprland** setup — [dotfiles](https://github.com/akshatgitgud/dotfiles)
+- 🎮 I'm currently working on a **Java game engine ([Mario](https://github.com/akshatgitgud/Mario))** and improving my **DSA**
+- 👯 I'm looking to collaborate on open source/coding projects
+- 💬 Ask me about **Java, C++, Linux**
+- ⚡ PS : when I'm not coding, I'm at the gym, gaming, or fixing my Linux installation
 
-- **arch linux customization** — configuring and customizing my Arch Linux + Hyprland setup, including Waybar, Hyprpanel, Fish Shell, Neovim, theming, and workflow automation.
-  - [View Dotfiles Repository](https://github.com/akshatgitgud/dotfiles)
-- **Coding a 2-D game engine in JAVA** -
-  - [Mario](https://github.com/akshatgitgud/Mario)
+---
+
+**tech stack**
+
+**languages**
+`Java` `C++ (intermediate)` `Python (intermediate)`
+
+**operating systems**
+`Arch Linux`
+
+**tools**
+`Git` `Neovim` `VSCodium` `Blender(a little)`
+
+---
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=akshatgitgud&rank_icon=github&custom_title=akshatgitgud-dynamic-stats&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=akshatgitgud&rank_icon=github&custom_title=akshatgitgud-dynamic-stats&show_icons=true&include_all_commits=true&theme=transparent)
