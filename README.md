@@ -14,7 +14,7 @@ I am **Akshat**, a **Computer Science undergrad** interested in software develop
 
 ---
 
-**tech stack**
+### Tech stack
 
 **languages**
 `Java` `C++ (intermediate)` `Python (intermediate)`
